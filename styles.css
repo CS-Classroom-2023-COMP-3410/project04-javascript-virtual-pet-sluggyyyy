@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #c5d5a5;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#beef {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.status-section {
+    margin: 20px 0;
+}
+
+.status-section p {
+    margin: 8px 0;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#message {
+    font-style: italic;
+    min-height: 20px;
+}
